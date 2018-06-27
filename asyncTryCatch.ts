@@ -23,7 +23,6 @@ const preMovie = async () => {
   console.log('Person5: shows ticket');
   console.log('Person6: shows ticket');
 
-
-  //This is a master branch
-
-  //I wrote this line in my firstbranch
+  /**
+   * I am writing this on master branch
+   */
